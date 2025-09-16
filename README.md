@@ -1,6 +1,6 @@
 # 👨‍💻 ¡Hola!
 
-¡Bienvenido a mi perfil de GitHub!
+¡Bienvenid@ a mi perfil de GitHub!
 
 Soy un programador backend con un gran interés por la tecnología, me gusta aprender nuevas herramientas y me adapto con facilidad a nuevos proyectos. Trabajo principalmente con **Java** y **Python**, y recientemente he estado profundizando en el ecosistema **Spring**.
 
