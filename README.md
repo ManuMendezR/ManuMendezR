@@ -1,16 +1,41 @@
-## Hi there 👋
+# 👨‍💻 ¡Hola!
 
-<!--
-**ManuMendezR/ManuMendezR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+¡Bienvenido a mi perfil de GitHub!
 
-Here are some ideas to get you started:
+Soy un programador backend con un gran interés por la tecnología, me gusta aprender nuevas herramientas y me adapto con facilidad a nuevos proyectos. Trabajo principalmente con **Java** y **Python**, y recientemente he estado profundizando en el ecosistema **Spring**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧰 Tecnologías y herramientas que utilizo
+
+### Lenguajes de programación:
+- ☕ Java
+- 🐍 Python
+
+### Bases de datos:
+- 🐬 MySQL
+- 🐘 PostgreSQL
+- 🪶 SQLite
+- 🍃 MongoDB
+
+### Servicios en la nube:
+- ☁️ AWS (Amazon Web Services)
+- ☁️ Google Cloud Platform (GCP)
+
+### Desarrollo de APIs:
+- Diseño y desarrollo de **RESTful APIs**
+- Consumo de servicios externos
+- Integración de servicios
+
+### Control de versiones:
+- 🔧 Git
+- 🐱 GitHub
+- 🦊 GitLab
+
+## 📫 ¿Cómo contactarme?
+Estoy abierto a cualquier oferta, ¡no dudes en contactarme!
+Mi [linkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-m%C3%A9ndez-rodr%C3%ADguez-b446a927b/).
+
+Mi correo manumendezr457@gmail.com
+
+---
+
+⭐ ¡Gracias por visitar mi perfil! ⭐
