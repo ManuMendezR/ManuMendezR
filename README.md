@@ -33,7 +33,7 @@ Soy un programador backend con un gran interés por la tecnología, me gusta apr
 ## 📫 ¿Cómo contactarme?
 Estoy abierto a cualquier oferta, ¡no dudes en contactarme!
 
-Mi [linkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-m%C3%A9ndez-rodr%C3%ADguez-b446a927b/).
+Mi [linkedIn](https://www.linkedin.com/in/jos%C3%A9-manuel-m%C3%A9ndez-rodr%C3%ADguez-b446a927b/)
 
 Mi correo manumendezr457@gmail.com
 
