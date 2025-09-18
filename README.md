@@ -21,12 +21,12 @@ Soy un programador backend con un gran interés por la tecnología, me gusta apr
 - 🔍 Google Big Query (GCP)
 
 ### Desarrollo de APIs:
-- Diseño y desarrollo de **RESTful APIs**
-- Consumo de servicios externos
-- Integración de servicios
+- 🛠️ Diseño y desarrollo de **RESTful APIs**
+- 📥 Consumo de servicios externos
+- 🔗 Integración de servicios
 
 ### Control de versiones:
-- 🔧 Git
+- 🧬 Git
 - 🐱 GitHub
 - 🦊 GitLab
 
