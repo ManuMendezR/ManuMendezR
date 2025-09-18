@@ -18,7 +18,7 @@ Soy un programador backend con un gran interés por la tecnología, me gusta apr
 
 ### Servicios en la nube:
 - ☁️ AWS (Amazon Web Services)
-- ☁️ Google Cloud Platform (GCP)
+- ☁️ Google Big Query (GCP)
 
 ### Desarrollo de APIs:
 - Diseño y desarrollo de **RESTful APIs**
